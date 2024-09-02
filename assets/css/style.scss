@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.page-header { color: #fff; text-align: center; background-image: url("../images/dna-sequence-1600x800.jpg"); }
+.page-header { 
+    color: #fff; 
+    text-align: center; 
+    background-image: url("../images/dna-sequence-1600x800.jpg"); 
+    background-size: cover;       /* Ensures the image covers the entire area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center;  /* Centers the image on the page */
+    height: 100vh;                /* Makes sure the header section takes up the full viewport height */
+}
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { 
+    margin-top: 2rem; 
+    margin-bottom: 1rem; 
+    font-weight: normal; 
+    color: #000000; 
+}
