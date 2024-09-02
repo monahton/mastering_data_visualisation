@@ -171,6 +171,4 @@ The data we have downloaded and read into R above represents the following 3 fil
 
 Now that we have a basic understanding of how to decide on the types of plots we would like to create and the data that we will be using, let's get started with `ggplot2`.
 
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*
 

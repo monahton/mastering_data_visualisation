@@ -4,8 +4,6 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani, Jihe Liu"
 date: "Friday, July 16, 2021"
 ---
 
-Approximate time: 20 minutes
-
 ## Learning objectives
 * Explain the goals of this workshop
 * Describe the dataset being used for the workshop
@@ -132,5 +130,3 @@ There have been many books written over the years, many papers published, and th
 2. [O'Donoghue et al., 2018, Annual Review of Biomedical Data Science 1:1, 275-304. *Visualization of Biomedical Data*](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-080917-013424)
 3. [Betsy Mason, Knowable Magazine 2019. *Why scientists need to be better at data visualization*](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*

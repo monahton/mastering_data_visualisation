@@ -22,7 +22,21 @@ This is a hands-on tutorial in which the data and code will be distributed to pa
 
 ## Target Audience
 
-Doctors/Researchers/Scientists with an intermediate background in R who interested in using R to create publication-ready figures. 
+Doctors/Researchers/Scientists with an intermediate background in R who interested in using R to create publication-ready figures.
+
+## Lessons
+
+* [Introduction to data visualization and dataset](lessons/01_Introduction.md)
+* [Basic ggplot2 syntax and creating a basic plot](lessons/02_ggplot2_syntax.md)
+* [Consistent plots with custom themes](lessons/03_custom_themes.md)
+* [Application of plotting basics](lessons/04_boxplot_application_of_basic_plotting.md)
+* [Customization of scales and color palettes](lessons/05_custom_plot_scales_colors.md)
+* [Aligning and labeling plots with cowplot](lessons/06_aligning_plots_using_cowplot.md)
+* [Adding annotations and including statistical comparisons with ggpubr](lessons/07_adding_text_annotations.md)
+* [Incorporating external packages to extend plotting functionality](lessons/08_figure_specific_packages.md)
+* [Creating final figure](lessons/09_final_figure.md)
+* [Pivoting publications](lessons/10_pivoting_publications.md) 
+* [Take-home exercise to create the bar plot figures](lessons/bar_plots_exercise.md)
 
 ## Resources
 

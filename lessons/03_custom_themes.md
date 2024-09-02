@@ -130,6 +130,3 @@ Using your `personal_theme()`, create volcano plots for the **'Intermediate prog
 <img src="../img/volcano_neu.png" width="300">
 </p>
 
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*
-

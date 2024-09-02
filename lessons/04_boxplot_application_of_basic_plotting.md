@@ -137,8 +137,3 @@ Looks good! Let's make our boxplot!
 
 _Detailed code used to create the boxplot can be found in the [answer key](../answer_keys/boxplots_Q1.md)._
 
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*
-
-
-

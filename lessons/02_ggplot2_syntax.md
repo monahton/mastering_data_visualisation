@@ -281,6 +281,3 @@ ggplot(results) +
 <img src="../img/ggscatter-6_alt.png" height="300">
 </p> 
 
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*
-

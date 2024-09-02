@@ -453,7 +453,3 @@ We have limited our exploration of palettes to a couple of the most popular pack
 - [**R Graph Galley - ggplot2 color**](https://www.r-graph-gallery.com/ggplot2-color.html)
 - [**HCL wizard**](https://hclwizard.org)
 
-
----
-*Lessons are adapted from [Harvard Chan Bioinformatics Core (HBC)].*
-
